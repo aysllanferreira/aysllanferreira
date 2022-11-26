@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Trybe<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning Next.js<br>⚡ Always learning
+🔭 I’m currently studying on Trybe<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning Next.js<br>⚡ Always learning
 
 
 ## 🌐 Socials:
