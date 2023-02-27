@@ -1,5 +1,13 @@
+<h1>👋 Hello there, I’m @aysllanferreira</h1>
+<div><img src="https://pinely.eu/_next/image?url=https%3A%2F%2Fpinely-strapi-files.s3.eu-west-3.amazonaws.com%2Flogo_0bda874db4.png&w=128&q=75"</div>>
+
 # 💫 About Me:
-🔭 I’m currently studying on Trybe<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning Next.js<br>⚡ Always learning
+<ul>
+<li>👾 Part of Pinely International</li>
+<li>🔝 I’m looking to collaborate on some interesting project</li>
+<li>💻 MERN Stack Developer</li>
+<li>📫 How to reach me: konstantin.vasilev@pinely.eu</li>
+</ul>
 
 
 ## 🌐 Socials:
